@@ -91,8 +91,13 @@
 /*Child-items selected*/
 #horizontal-multilevel-menu li.item-selected
 {
-	background:#D6D6D6;
+	background:#392d81;
 	color:#fff;
+}
+
+#horizontal-multilevel-menu li.item-selected a
+{
+	color:#65c1f5 !important;
 }
 
 /*Sub-menu box*/
